@@ -1,1 +1,1 @@
-# qwerty-software
+# qwerty-software made by Draevskiy Dmitry
